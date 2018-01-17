@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: df93a4adf01fb7241b905b261d215a2f
+timeCreated: 1501328786
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bradley Hand
+  fontNames:
+  - Bradley Hand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

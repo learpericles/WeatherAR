@@ -1,0 +1,35 @@
+fileFormatVersion: 2
+guid: a66bf7b64deef1a43b16af8bdc924b62
+timeCreated: 1501328786
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: SF UI  Text
+  fontNames:
+  - SF UI  Text
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 27a07770b77137d49b731ce2413f22d1, type: 3}
+  - {fileID: 12800000, guid: 77d9d3b349dc5a3479462dc66a928a78, type: 3}
+  - {fileID: 12800000, guid: 1f9d34d3a0cc43048851b34b3711684d, type: 3}
+  - {fileID: 12800000, guid: 59262d8483144794480f609000fbb14f, type: 3}
+  - {fileID: 12800000, guid: 1e7fd1f7516ceaa4e83c12b94448b161, type: 3}
+  - {fileID: 12800000, guid: 4b80fc68551143a4295b18c639b0c0f7, type: 3}
+  - {fileID: 12800000, guid: 24b38f78e67e65f4e86e4a93a7f17332, type: 3}
+  - {fileID: 12800000, guid: 33c9f789219e0fd4e98553c81dd27684, type: 3}
+  - {fileID: 12800000, guid: 61cbf44ad6d900e4e9b602e914d0defc, type: 3}
+  - {fileID: 12800000, guid: a174f6ba434902e48acf5d768623ce07, type: 3}
+  - {fileID: 12800000, guid: 92fbcadad879c5140a7c3c367c03f626, type: 3}
+  - {fileID: 12800000, guid: 87c3e21ce626f6d409f68718191dfd33, type: 3}
+  - {fileID: 12800000, guid: 9f87628fe98bf6047b5445277edf02f9, type: 3}
+  - {fileID: 12800000, guid: 5fc6ce9fa152ada47b2c981069b2b857, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherARv2", "WeatherARv2.csproj", "{6F19FF08-0238-ADC9-630D-9586CAB740FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherARv2.Plugins", "WeatherARv2.Plugins.csproj", "{B570B985-DAA1-F081-DACA-77B02BB83969}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherARv2.Editor", "WeatherARv2.Editor.csproj", "{9E078BB7-C33B-8EC9-5679-10237FD3F231}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F19FF08-0238-ADC9-630D-9586CAB740FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F19FF08-0238-ADC9-630D-9586CAB740FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F19FF08-0238-ADC9-630D-9586CAB740FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F19FF08-0238-ADC9-630D-9586CAB740FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B570B985-DAA1-F081-DACA-77B02BB83969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B570B985-DAA1-F081-DACA-77B02BB83969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B570B985-DAA1-F081-DACA-77B02BB83969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B570B985-DAA1-F081-DACA-77B02BB83969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E078BB7-C33B-8EC9-5679-10237FD3F231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E078BB7-C33B-8EC9-5679-10237FD3F231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E078BB7-C33B-8EC9-5679-10237FD3F231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E078BB7-C33B-8EC9-5679-10237FD3F231}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
